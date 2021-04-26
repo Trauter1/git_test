@@ -1,0 +1,1 @@
+This is Trauer's first git project!
